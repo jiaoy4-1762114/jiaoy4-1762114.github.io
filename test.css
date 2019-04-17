@@ -4,7 +4,7 @@ body{
 }
 
 #Header{
-    border: soild 8px black;
+    border: solid 8px black;
     width: 500px;
     margin-left: auto;
     margin-right: auto;
@@ -38,6 +38,7 @@ a{
     border: solid 8px black;
     float: left;
     background-color: #8E41d5;
+    text-align: center;
 }
 
 #bow{
