@@ -1,0 +1,37 @@
+body{
+    color:burlywood;
+    background-image: url('dark_wood.png');
+}
+
+h2{
+    border: solid 8px gray;
+    font-size: 60px;
+    font-family: "passion one";
+    color: rgb(74, 135, 214);
+    text-align: center;
+    background-color: pink
+}
+
+label{
+    font-weight: bold;
+    font-size: 24px;
+    color:#ffbc00;
+    background-color: bisque;
+    text-align: center;
+}
+
+legend{
+    font-size: 40px;
+    font-family: "Passione One";
+    color:rgb(93, 216, 224);
+    font-weight: bold;
+    text-align: center;
+}
+
+#field{
+    width: 400px;
+    border: solid 8px black;
+    float: center;
+    background-color:pink;
+    text-align: center;
+}
