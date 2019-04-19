@@ -1,0 +1,21 @@
+body{
+    color:burlywood;
+    background-image:url('dark_wood.png');
+}
+
+h1{
+    border:salmon 8px palegreen;
+    font-size: 30px;
+    font-family: "passion one";
+    color:burlywood;
+    text-align: center;
+    background-color: pink;
+}
+
+p{
+    text-align: center;
+}
+
+img{
+    
+}
